@@ -1,0 +1,1 @@
+SELECT * FROM worker OREDR BY Salary DESC LIMIT 1;
